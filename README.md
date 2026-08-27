@@ -42,10 +42,19 @@ A **Pearson chi-squared test** was also used to examine the association between 
 
 ## Key Findings
 
-* Individuals below the poverty threshold showed a higher probability of delaying healthcare due to cost across much of the age distribution.
-* Chronic disease prevalence increased substantially with age and was generally higher among lower-income groups.
-* Healthcare utilization varied across education and employment groups, with differences also observed between genders.
-* The analysis found a statistically significant association between poverty status and chronic disease prevalence.
+- Individuals below the poverty threshold showed a higher probability of delaying healthcare due to cost across much of the age distribution.
+- Chronic disease prevalence increased substantially with age and was generally higher among lower-income groups.
+- Healthcare utilization varied across education and employment groups, with differences also observed between genders.
+- The analysis found a statistically significant association between poverty status and chronic disease prevalence.
+
+## Visualizations
+
+### Delayed Healthcare by Age and Poverty Status
+
+The analysis shows differences in the probability of delaying healthcare between individuals below and at or above the poverty threshold across age groups.
+
+![Probability of Delaying Care by Age and Poverty Status](fig_delaycare_by_age.png)
+
 
 ## Tools
 
